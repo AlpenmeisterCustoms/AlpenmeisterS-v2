@@ -1,7 +1,8 @@
 # Alpenmeister's S v2 Controller
 formerly known as Meisterbox S
 
-![A leverless controller with a shell printed in black and white. The controller has a lid with a white logo on black background and a white groove. To the side of the shell lid a two closure tabs. The controller itself has 14 black or white buttons with low profile keycaps.](pictures/knochen_overview.jpeg "Overview of the Meisterbox S")
+![A closed leverless controller with a shell printed in black. The controller has a lid with a embossed logo. The shell has two clasps for closing. The controller itself has 14 black or white buttons with low profile keycaps.](https://github.com/AlpenmeisterCustoms/AlpenmeisterS-v2/blob/main/pictures/meisterboxSv2_closed_front.png "Overview of the Alpenmeister S v2 Controller")
+![A open leverless controller with a shell printed in black. The controller has a lid with a embossed logo. The shell has two clasps for closing. The controller itself has 14 black or white buttons with low profile keycaps.](https://github.com/AlpenmeisterCustoms/AlpenmeisterS-v2/blob/main/pictures/meisterboxSv2_open_front.png "Overview of the Alpenmeister S v2 Controller")
 
 Alpenmeister S v2 © 2025 by Alpenmeister is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
 In plain English: You can build and modify this controller for non-commercial purposes. I do grant commercial licenses, please contact me if you are interested.
