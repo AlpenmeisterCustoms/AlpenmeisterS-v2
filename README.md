@@ -4,8 +4,8 @@ formerly known as Meisterbox S
 ![A closed leverless controller with a shell printed in black. The controller has a lid with a embossed logo. The shell has two clasps for closing. The controller itself has 14 black or white buttons with low profile keycaps.](https://github.com/AlpenmeisterCustoms/AlpenmeisterS-v2/blob/main/pictures/meisterboxSv2_closed_front.png "Overview of the Alpenmeister S v2 Controller")
 ![A open leverless controller with a shell printed in black. The controller has a lid with a embossed logo. The shell has two clasps for closing. The controller itself has 14 black or white buttons with low profile keycaps.](https://github.com/AlpenmeisterCustoms/AlpenmeisterS-v2/blob/main/pictures/meisterboxSv2_open_front.png "Overview of the Alpenmeister S v2 Controller")
 
-Alpenmeister S v2 © 2025 by Alpenmeister is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)
-In plain English: You can build and modify this controller for non-commercial purposes. I do grant commercial licenses, please contact me if you are interested.
+Alpenmeister S v2 Controller is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)  
+If you want to sell this design, please contact me first.
 
 The goal here was to build a controller that is pocket sized, great for travelling (to locals) and that is unlike most "box-controllers", an actual box. You can just wrap your USB cable around it and put it in your pocket, because it's barely larger than a large smartphone and weighs just below 200g.
 
@@ -35,7 +35,28 @@ You can find the files necessary to order the PCB in `pcb/`. Ordering the PCBs w
 1. Go to JLCPCB.com
 2. Click on "Order now"
 3. Click on "Add gerber file" and choose "MeisterboxS_gerber.zip"
-4. Use the following options, mostly  defaults, those that need changes are highlighted:
+4. Use the default options (see reference at the end of these instructions), except those mentioned here:
+    - PCB Color: choose your color, we would recommend black
+    - Surface Finish: HASL, we would recommend LeadFree
+    - Confirm Production file: Yes
+5. Use the switch next to "PCB Assembly"  
+6. Use the default options for PCB Assembly, except those mentioned here:  
+
+    - **Confirm Parts Placement: Yes  
+       THIS IS IMPORTANT, JLCPCB will make a production file to match the files we provide, please check if all components are where they should be**
+    - PCBA Qty: Choose the same amount as PCB Qty
+    - Advanced Options: don't touch and leave as defaults
+
+7. Click "Next"
+8. Click "Next"
+9. Click "Add BOM" File and choose "AlpenmeisterSv2_bom.csv", then click "Add CPL File" and choose "AlpenmeisterSv2_CPL.csv". Then click "Process BOM & CPL"
+10. You will then be presented with the components that are used on the board, they should be in stock and selected. Only then click "Next". Do not proceed if some are missing and you don't know what they do.
+11. You might then see a prompt saying "The system detects components that may be offset from the PCB, does it try to automatically align it?" (sic). Click "Cancel".
+13. You'll be in your cart. Select the PCB we just configured and then go through the "Secure Checkout"
+
+Please bear in mind: Do this at your own risk. It is your own responsibility to do the ordering process. We are not responsible for any mistakes in this instruction, as the actual ordering process might change at any time.
+<details><summary>Click to see default options for reference</summary>
+PCB:
     - Base Material: FR-4
     - Layers: 2
     - Dimensions: do not touch
@@ -44,38 +65,22 @@ You can find the files necessary to order the PCB in `pcb/`. Ordering the PCBs w
     - Different Design: 1
     - Delivery Format: Single PCB
     - PCB Thickness: 1.6mm
-    - **PCB Color: choose your color, we would recommend black**
     - Silkscreen: White
-    - **Surface Finish: HASL, we would recommend LeadFree
     - Outer Copper Weight: 1oz
     - Via Covering: Tented
     - Min via hole size/diameter 0.3mm
     - Board Outline Tolerance: +/-0.2mm
-    - **Confirm Production file: Yes**
     - Mark on PCB: Remove Mark
     - Electrical Test: Flying Probe Fully Test
     - Gold Fingers. No
     - Castellated Holes: No
     - Edge Plating: No
-5. Use the switch next to "PCB Assembly"
-6. Use the following options for PCB Assembly, mostly defaults, those that need changes are highlighted:
+    PCB Assembly:
     - PCBA Type: Economic
     - Assembly Side: Top Side
-    - PCBA Qty: Choose the same amount as PCB Qty
     - Tooling holes: Added by JLCPCB
-    - **Confirm Parts Placement: Yes THIS IS VERY IMPORTANT, JLCPCB will make a production file to match the files we provide, please check if all components are where they should be**
     - Parts Selection: By Customer
-    - Advanced Options don't touch and leave as defaults
-7. Click "Next"
-8. Click "Next"
-9. Click "Add BOM" File and choose "AlpenmeisterSv2_bom.csv", then click "Add CPL File" and choose "AlpenmeisterSv2_CPL.csv". Then click "Process BOM & CPL"
-10. You will then be presented with the components that are used on the board, they should be in stock and selected. Only then click "Next". Do not proceed if some are missing and you don't know what they do.
-11. You will then see a prompt saying "The system detects components that may be offset from the PCB, does it try to automatically align it?" (sic). Click "Cancel". You will then see that the USB ports and top switches are misaligned. Select the USB ports and move them a bit inwards. Then select the top switches and rotate them 180°. Try to align them with the holes in the board. You do not have to be precise, this is just an indication of how you want the parts to be placed, the final placement in the production file will be done by a JLCPCB employee. Click "Next" when finished.
-12. You will then see the costs of production. Choose a "Product Description" on the right side "Research/Eduction/DIY/Entertainment" > "DIY - HS Code 902300". This is for the customs declaration. "Click "Save to cart".
-13. You'll be in your cart. Select the PCB we just configured and then go through the "Secure Checkout"
-
-Please bear in mind: Do this at your own risk. It is your own responsibility to do the ordering process. We are not responsible for any mistakes in this instruction, as the actual ordering process might change at any time.
-
+</details>
 
 
 ## Additional Hardware
@@ -90,4 +95,10 @@ You'll need some other hardware to assemble the whole controller:
 * 1x USB-C cable (you will need a right-angled one with a slim connector to make it fit)
 
 
+## More licensing
+
+Alpenmeister S v2 Controller is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)  
+If you want to sell this design, please contact me first.  
+Alpenmeister S v2 Controller "case" only is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+It is based on "[Parametric Box v2 (single clasp)](https://www.printables.com/model/540605-parametric-box-v2-single-clasp)" and was modified accordingly.
 
