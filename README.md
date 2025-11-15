@@ -92,7 +92,7 @@ You'll need some other hardware to assemble the whole controller:
 * 5x 1.5U Tai-Hao THT Low Profile MX Blank Keycaps (you could print these if you'd like)
 * 4x 6mm M3 heat inserts 
 * 4x 6mm M3 flat top screws
-* 1x acrylic top plate (see `optional/` files. Can also be printed)
+* 1x 2mm acrylic top plate (see `optional/` files. Can also be printed)
 * 1x USB-C cable (you will need a right-angled one with a slim connector to make it fit)
 
 
@@ -103,3 +103,7 @@ If you want to sell this design, please contact me first.
 Alpenmeister S v2 Controller "case" (the STL files) is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 It is based on "[Parametric Box v2 (single clasp)](https://www.printables.com/model/540605-parametric-box-v2-single-clasp)" and was modified accordingly.
 
+
+## Contact
+
+You can find me (@alpen.meister) on the [Open Stick Community Discord](https://discord.gg/JqK6K5tu).
