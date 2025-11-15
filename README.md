@@ -1,5 +1,5 @@
-# Alpenmeister's S v2 Controller
-formerly known as Meisterbox S
+# Alpenmeister S v2 Controller
+also known as Meisterbox S
 
 ![A closed leverless controller with a shell printed in black. The controller has a lid with a embossed logo. The shell has two clasps for closing. The controller itself has 14 black or white buttons with low profile keycaps.](https://github.com/AlpenmeisterCustoms/AlpenmeisterS-v2/blob/main/pictures/meisterboxSv2_closed_front.png "Overview of the Alpenmeister S v2 Controller")
 ![A open leverless controller with a shell printed in black. The controller has a lid with a embossed logo. The shell has two clasps for closing. The controller itself has 14 black or white buttons with low profile keycaps.](https://github.com/AlpenmeisterCustoms/AlpenmeisterS-v2/blob/main/pictures/meisterboxSv2_open_front.png "Overview of the Alpenmeister S v2 Controller")
@@ -56,7 +56,8 @@ You can find the files necessary to order the PCB in `pcb/`. Ordering the PCBs w
 
 Please bear in mind: Do this at your own risk. It is your own responsibility to do the ordering process. We are not responsible for any mistakes in this instruction, as the actual ordering process might change at any time.
 <details><summary>Click to see default options for reference</summary>
-PCB:
+
+    PCB: 
     - Base Material: FR-4
     - Layers: 2
     - Dimensions: do not touch
@@ -89,8 +90,8 @@ You'll need some other hardware to assemble the whole controller:
 * 14x Choc V2 switches
 * 9x 1U Tai-Hao THT Low Profile MX Blank Keycaps (you could print these if you'd like)
 * 5x 1.5U Tai-Hao THT Low Profile MX Blank Keycaps (you could print these if you'd like)
-* 4x M3 6mm heat inserts 
-* 4x M3 6mm flat top screws
+* 4x 6mm M3 heat inserts 
+* 4x 6mm M3 flat top screws
 * 1x acrylic top plate (see `optional/` files. Can also be printed)
 * 1x USB-C cable (you will need a right-angled one with a slim connector to make it fit)
 
@@ -99,6 +100,6 @@ You'll need some other hardware to assemble the whole controller:
 
 Alpenmeister S v2 Controller is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)  
 If you want to sell this design, please contact me first.  
-Alpenmeister S v2 Controller "case" only is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+Alpenmeister S v2 Controller "case" (the STL files) is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 It is based on "[Parametric Box v2 (single clasp)](https://www.printables.com/model/540605-parametric-box-v2-single-clasp)" and was modified accordingly.
 
