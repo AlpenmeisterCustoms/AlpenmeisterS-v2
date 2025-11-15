@@ -7,7 +7,7 @@ also known as Meisterbox S
 Alpenmeister S v2 Controller is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)  
 If you want to sell this design, please contact me first.
 
-The goal here was to build a controller that is pocket sized, great for travelling (to locals) and that is unlike most "box-controllers", an actual box. You can just wrap your USB cable around it and put it in your pocket, because it's barely larger than a large smartphone and weighs just below 200g.
+The goal here was to build a controller that is pocket sized, great for travelling (to locals) and that is, unlike most "box-controllers", an actual box. You can just wrap your USB cable around it and put it in your pocket, because it's barely larger than a large smartphone and weighs just below 200g.
 
 It comes with an acrylic cover so you can put in your favorite artwork. It has a hidden compartment for a small passthrough authenticator dongle and also a second USB-C passthrough port for bigger converters like the Brook FGC. Switches are Kailh choc v2. Button caps are 1U and 1.5U. The layout is the Meisterlayout with two thumb buttons, two pinky buttons and a center button. It's designed as ergonomic as possible and sized down to the smallest footprint possible.
 
