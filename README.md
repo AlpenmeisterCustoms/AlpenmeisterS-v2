@@ -23,7 +23,7 @@ The repository contains five STLs in the `stls_to_print` folder which you'll nee
 * 2x `knochenv2-hinge.stl`: the rearhinges
 * 2x `knochenv2-clasp.stl`: the clasp to securely close the box
 
-You might need to orient the items on your print bed. We managed to print everything together on the 180mmx180mmx180mm print bed of a Bambu Lab A1 mini. This build has been tested in PLA and PETG. Our recommendation is using PETG if you can since that would make sure your controller won't warp when exposed to heat or become brittle because of sun exposure. If you use this controller to travel, those might be some conditions it might get exposed to.
+You might need to orient the items on your print bed. You should be even able to print this on the print bed of a small 180mmx180mmx180mm printer. This build has been tested in PLA and PETG. Our recommendation is using PETG if you can since that would make sure your controller won't warp when exposed to heat or become brittle because of sun exposure. If you use this controller to travel, those might be some conditions it might get exposed to.
 
 You will also find optional files for the acrylic cover `optional/AlpenmeisterSv2-acrylic.step` and a cutout file for artwork `optional/AlpenmeisterSv2-acrylic.dxf`.
 
