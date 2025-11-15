@@ -9,9 +9,10 @@ If you want to sell this design, please contact me first.
 
 The goal here was to build a controller that is pocket sized, great for travelling (to locals) and that is unlike most "box-controllers", an actual box. You can just wrap your USB cable around it and put it in your pocket, because it's barely larger than a large smartphone and weighs just below 200g.
 
-It comes with an acrylic cover so you can put in your favorite artwork. It has a hidden compartment for a passthrough authenticator dongle like the Booter 5 and also a second USB-C passthrough port for bigger converters like the Brook FGC. Switches are Kailh choc v2. Button caps are 1U and 1.5U. The layout is the Meisterlayout with two thumb buttons, two pinky buttons and a center button. It's designed as ergonomic as possible and sized down to the smallest footprint possible.
+It comes with an acrylic cover so you can put in your favorite artwork. It has a hidden compartment for a small passthrough authenticator dongle and also a second USB-C passthrough port for bigger converters like the Brook FGC. Switches are Kailh choc v2. Button caps are 1U and 1.5U. The layout is the Meisterlayout with two thumb buttons, two pinky buttons and a center button. It's designed as ergonomic as possible and sized down to the smallest footprint possible.
 
-P.S. Why "Knochen"? Knochen means bone in German and the initial idea was to wrap the USB cable vertically, which would make it sort of shaped like a stylized dog bone.
+P.S. Why "Knochen"? Knochen means bone in German and the initial idea was to wrap the USB cable vertically, which would make it sort of shaped like a stylized dog bone.  
+P.S.S. Shoutout to [Merlin](https://github.com/MerlinDesigns) for designing the v1 model case and always helping.
 
 ## Case Files
 
@@ -23,9 +24,9 @@ The repository contains five STLs in the `stls_to_print` folder which you'll nee
 * 2x `knochenv2-hinge.stl`: the rearhinges
 * 2x `knochenv2-clasp.stl`: the clasp to securely close the box
 
-You might need to orient the items on your print bed. You should be even able to print this on the print bed of a small 180mmx180mmx180mm printer. This build has been tested in PLA and PETG. Our recommendation is using PETG if you can since that would make sure your controller won't warp when exposed to heat or become brittle because of sun exposure. If you use this controller to travel, those might be some conditions it might get exposed to.
+You might need to orient the items on your print bed. You should be even able to print this on the print bed of a small 180mmx180mmx180mm printer. This build has been tested in PLA and PETG. Our recommendation is using PETG if you can, since that would make sure your controller won't warp when exposed to heat or become brittle because of sun exposure. If you use this controller to travel, those might be some conditions it might get exposed to.
 
-You will also find optional files for the acrylic cover `optional/AlpenmeisterSv2-acrylic.step` and a cutout file for artwork `optional/AlpenmeisterSv2-acrylic.dxf`.
+You will also find files for the acrylic cover `optional/AlpenmeisterSv2-acrylic.step` and a cutout file for the optional artwork `optional/AlpenmeisterSv2-acrylic.dxf`.
 
 ## PCB Files
 
@@ -92,7 +93,7 @@ You'll need some other hardware to assemble the whole controller:
 * 5x 1.5U Tai-Hao THT Low Profile MX Blank Keycaps (you could print these if you'd like)
 * 4x 6mm M3 heat inserts 
 * 4x 6mm M3 flat top screws
-* 1x 2mm acrylic top plate (see `optional/` files. Can also be printed)
+* 1x 2mm acrylic top plate
 * 1x USB-C cable (you will need a right-angled one with a slim connector to make it fit)
 
 
