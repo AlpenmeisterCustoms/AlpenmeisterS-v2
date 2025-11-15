@@ -5,7 +5,7 @@ also known as Meisterbox S
 ![A open leverless controller with a shell printed in black. The controller has a lid with a embossed logo. The shell has two clasps for closing. The controller itself has 14 black or white buttons with low profile keycaps.](https://github.com/AlpenmeisterCustoms/AlpenmeisterS-v2/blob/main/pictures/meisterboxSv2_open_front.png "Overview of the Alpenmeister S v2 Controller")
 
 Alpenmeister S v2 Controller is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)  
-If you want to sell this design, please contact me.
+Free to build and modify for personal use. If you want to sell this design, please contact me.
 
 The goal here was to build a controller that is pocket sized, great for travelling (to locals) and that is, unlike most "box-controllers", an actual box. You can just wrap your USB cable around it and put it in your pocket, because it's barely larger than a large smartphone and weighs just below 200g.
 
@@ -100,7 +100,7 @@ You'll need some other hardware to assemble the whole controller:
 ## More licensing
 
 Alpenmeister S v2 Controller is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)  
-If you want to sell this design, please contact me.  
+Free to build and modify for personal use. If you want to sell this design, please contact me.
 Alpenmeister S v2 Controller "case" (the STL files) is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
 It is based on "[Parametric Box v2 (single clasp)](https://www.printables.com/model/540605-parametric-box-v2-single-clasp)" and was modified accordingly.
 
