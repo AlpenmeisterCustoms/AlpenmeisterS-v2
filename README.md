@@ -89,6 +89,7 @@ Please bear in mind: Do this at your own risk. It is your own responsibility to 
 
 You'll need some other hardware to assemble the whole controller:
 * 14x Choc V2 switches
+* 14x Choc hotswap sockets
 * 9x 1U Tai-Hao THT Low Profile MX Blank Keycaps (you could print these if you'd like)
 * 5x 1.5U Tai-Hao THT Low Profile MX Blank Keycaps (you could print these if you'd like)
 * 4x 6mm M3 heat inserts 
@@ -96,6 +97,17 @@ You'll need some other hardware to assemble the whole controller:
 * 1x 2mm acrylic top plate
 * 1x USB-C cable (you will need a right-angled one with a slim connector to make it fit)
 
+## Assembly
+
+1. Flash firmware onto board. Follow these [instructions](https://gp2040-ce.info/installation/). Use this firmware.
+2. Solder hotswap sockets to board.
+3. Insert heat inserts into case.
+4. Put 1.5mm filament through case and hinges + clasps, cut off excess filament. Put in the pins.
+5. Put PCB into bottom case part.
+6. Put acrylic plate on top of it.
+7. Screw it together.
+8. Insert switches and keycaps.
+9. Enjoy.
 
 ## More licensing
 
