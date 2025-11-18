@@ -108,3 +108,4 @@ It is based on "[Parametric Box v2 (single clasp)](https://www.printables.com/mo
 ## Contact
 
 You can find me (@alpen.meister) on the [Open Stick Community Discord](https://discord.gg/JqK6K5tu).
+Or on [Alpenmeister.com](https://alpenmeister.com/en/)
