@@ -100,8 +100,8 @@ You'll need some other hardware to assemble the whole controller:
 ## More licensing
 
 Alpenmeister S v2 Controller is licensed under [Creative Commons Attribution-NonCommercial 4.0 International](https://creativecommons.org/licenses/by-nc/4.0/)  
-Free to build and modify for personal use. If you want to sell this design, please contact me.
-Alpenmeister S v2 Controller "case" (the STL files) is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)  
+Free to build and modify for personal use. If you want to sell this design, please contact me.  
+Alpenmeister S v2 Controller "case" (the STL files) is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)    
 It is based on "[Parametric Box v2 (single clasp)](https://www.printables.com/model/540605-parametric-box-v2-single-clasp)" and was modified accordingly.
 
 
