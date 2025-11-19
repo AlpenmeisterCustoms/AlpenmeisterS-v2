@@ -99,7 +99,7 @@ You'll need some other hardware to assemble the whole controller:
 
 ## Assembly
 
-1. Flash firmware onto board. Follow these [instructions](https://gp2040-ce.info/installation/). Use this firmware.
+1. Flash firmware onto board. Follow [these instructions](https://gp2040-ce.info/installation/). Use [this firmware](https://github.com/AlpenmeisterCustoms/GP2040-CE/actions/runs/19237635402/artifacts/4521340374).
 2. Solder hotswap sockets to board.
 3. Insert heat inserts into case.
 4. Put 1.5mm filament through case and hinges + clasps, cut off excess filament. Put in the pins.
