@@ -92,8 +92,8 @@ You'll need some other hardware to assemble the whole controller:
 * 14x Choc hotswap sockets
 * 9x 1U Tai-Hao THT Low Profile MX Blank Keycaps (you could print these if you'd like)
 * 5x 1.5U Tai-Hao THT Low Profile MX Blank Keycaps (you could print these if you'd like)
-* 4x 6mm M3 heat inserts 
-* 4x 6mm M3 flat top screws
+* 4x 4mm M4 heat inserts 
+* 4x 6mm M4 flat top screws
 * 1x 2mm acrylic top plate
 * 1x USB-C cable (you will need a right-angled one with a slim connector to make it fit)
 
